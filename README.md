@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swraj28&label=Profile%20views&color=0e75b6&style=flat" alt="swraj28" /> </p>
 
 - 🔭 I’m currently working on [Image Captioning](https://github.com/swraj28/Image_Captioning)
-
+- 🌱 I’m currently learning **Node JS and Java** for Backend Development
 - 📫 How to reach me **swrajkant28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
