@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swraj Kant Sharma</h1>
 <h3 align="center">A passionate DSA(Data Structures and Algorithms) and Competitive Programming Enthusiast.</h3>
-<h3 align="center">Trying To Explore Backend Development Using Node JS</h3>
+<h3 align="center">Trying To Explore Backend Development Using Node JS & Spring Boot</h3>
 <p align="center">
   <img src="https://storage.googleapis.com/webdesignledger.pub.network/WDL/work-better-with-coders-1.jpg" style="height:480px; width:700px;">
 </p>
