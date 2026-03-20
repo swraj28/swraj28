@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swraj Kant Sharma</h1>
+<h1 align="center">Hi 👋, I'm Swraj Sharma</h1>
 <h3 align="center">A passionate DSA(Data Structures and Algorithms) and Competitive Programming Enthusiast.</h3>
 <h3 align="center">Trying To Explore Backend Development Using Node JS & Spring Boot</h3>
 <p align="center">
